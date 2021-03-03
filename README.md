@@ -51,6 +51,3 @@ Input Parameters
 ['OldEdge', 'NewEdge', 'GE1', 'GE4', 'GE5', 'GE6', 'GE2', 'GE3', 'SFP1', 'SFP2']
 Source Edge OldEdge not found!
 Enter [yes/no] to continue: no
-
-
-Sample 
